@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@builder.io/react-hydration-overlay": "^0.3.0",
     "@clerk/nextjs": "^6.9.6",
     "@radix-ui/react-slot": "^1.1.1",
     "@spotlightjs/spotlight": "^2.9.0",
